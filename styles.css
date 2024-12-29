@@ -151,7 +151,7 @@
     justify-content: center; /* Center content horizontally */
     align-items: center; /* Center content vertically */
     height: 100vh; /* Set height to 100% of the viewport */
-    background-image: url("/gym9.avif"); /* Your custom gym image */
+    background-image: url("gym9.avif"); /* Your custom gym image */
     background-size: cover; /* Ensure the image covers the whole section */
     background-position: center; /* Center the image */
     background-repeat: no-repeat; /* Prevent image repetition */
